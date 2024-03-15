@@ -1,4 +1,4 @@
-# Uniswap V2 Subgraph Testing
+# UdonSwap Subgraph Testing
 
 ## In whitelish link change and include pair in 19th line 
 This subgraph is for testing specifc interactions on a limited set of pairs. This subgraph should sync quickly and only contain data on pairs includes in the [whitelist](https://github.com/Uniswap/uniswap-v2-subgraph/blob/3209e951b255dcd00d079f5b4c8e0ab5001717bf/src/mappings/factory.ts#L19). 
